@@ -1,0 +1,1 @@
+SELECT * FROM toko_online.daftar_barang ORDER BY persediaan DESC LIMIT 5;
