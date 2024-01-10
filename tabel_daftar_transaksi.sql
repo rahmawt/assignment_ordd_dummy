@@ -1,0 +1,10 @@
+INSERT INTO `toko_online`.`daftar_trans` (`tanggal`, `total_item`, `total_bayar`, `id_barang`, `id_pembeli`) VALUES ('17-1-24', '2', '140000', '2', '1');
+INSERT INTO `toko_online`.`daftar_trans` (`tanggal`, `total_item`, `total_bayar`, `id_barang`, `id_pembeli`) VALUES ('2-1-24', '1', '50000', '1', '1');
+INSERT INTO `toko_online`.`daftar_trans` (`tanggal`, `total_item`, `total_bayar`, `id_barang`, `id_pembeli`) VALUES ('3-1-24', '1', '90000', '7', '3');
+INSERT INTO `toko_online`.`daftar_trans` (`tanggal`, `total_item`, `total_bayar`, `id_barang`, `id_pembeli`) VALUES ('5-12-23', '1', '50000', '1', '2');
+INSERT INTO `toko_online`.`daftar_trans` (`tanggal`, `total_item`, `total_bayar`, `id_barang`, `id_pembeli`) VALUES ('9-12-23', '1', '100000', '3', '5');
+INSERT INTO `toko_online`.`daftar_trans` (`tanggal`, `total_item`, `total_bayar`, `id_barang`, `id_pembeli`) VALUES ('30-12-23', '1', '25000', '8', '4');
+INSERT INTO `toko_online`.`daftar_trans` (`tanggal`, `total_item`, `total_bayar`, `id_barang`, `id_pembeli`) VALUES ('8-1-24', '1', '100000', '3', '9');
+INSERT INTO `toko_online`.`daftar_trans` (`tanggal`, `total_item`, `total_bayar`, `id_barang`, `id_pembeli`) VALUES ('10-1-24', '1', '100000', '3', '4');
+INSERT INTO `toko_online`.`daftar_trans` (`tanggal`, `total_item`, `total_bayar`, `id_barang`, `id_pembeli`) VALUES ('13-1-24', '1', '25000', '8', '8');
+INSERT INTO `toko_online`.`daftar_trans` (`tanggal`, `total_item`, `total_bayar`, `id_barang`, `id_pembeli`) VALUES ('14-1-24', '1', '90000', '7', '6');

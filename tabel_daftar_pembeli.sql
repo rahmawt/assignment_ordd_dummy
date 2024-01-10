@@ -1,0 +1,10 @@
+INSERT INTO `toko_online`.`daftar_pembeli` (`nama`, `alamat`, `member`) VALUES ('raka', 'jl tulip', '123');
+INSERT INTO `toko_online`.`daftar_pembeli` (`nama`, `alamat`, `member`) VALUES ('gigi', 'jl mawar', '122');
+INSERT INTO `toko_online`.`daftar_pembeli` (`nama`, `alamat`, `member`) VALUES ('lala', 'jl melati', '125');
+INSERT INTO `toko_online`.`daftar_pembeli` (`nama`, `alamat`, `member`) VALUES ('bima', 'jl paus', '126');
+INSERT INTO `toko_online`.`daftar_pembeli` (`nama`, `alamat`, `member`) VALUES ('bagus', 'jl lele', '134');
+INSERT INTO `toko_online`.`daftar_pembeli` (`nama`, `alamat`, `member`) VALUES ('karang', 'jl tulip', '154');
+INSERT INTO `toko_online`.`daftar_pembeli` (`nama`, `alamat`, `member`) VALUES ('dika', 'jl tulip', '156');
+INSERT INTO `toko_online`.`daftar_pembeli` (`nama`, `alamat`, `member`) VALUES ('rara', 'jl hiu', '129');
+INSERT INTO `toko_online`.`daftar_pembeli` (`nama`, `alamat`, `member`) VALUES ('siska', 'jl merpati', '130');
+INSERT INTO `toko_online`.`daftar_pembeli` (`nama`, `alamat`, `member`) VALUES ('sinta', 'jl merak', '127');
